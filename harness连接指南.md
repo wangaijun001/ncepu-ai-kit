@@ -411,4 +411,3 @@ check-ncepu-ai.bat
 | `ncepu_proxy.py` | 本机反代，解决 B 类 harness 的路径问题 |
 | `test_ncepu_ai.py` | 8 项自检脚本 |
 | `check-ncepu-ai.bat` | 双击即用的自检入口 |
-| `本地部署教程.md` | 想自己复刻这套服务时看这份 |

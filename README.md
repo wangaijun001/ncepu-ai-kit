@@ -7,17 +7,12 @@
 
 ## 📖 在线文档
 
-启用 GitHub Pages 后，直接访问：
+**直接打开就能看，不用装任何东西：**
 
-```
-https://<你的用户名>.github.io/<仓库名>/
-```
+### 👉 https://wangaijun001.github.io/ncepu-ai-kit/
 
-> 上面这行是模板，把 `<你的用户名>` 和 `<仓库名>` 换成你自己的即可。
-> 例如用户名 `zhangsan`、仓库名 `ncepu-ai-kit`，地址就是
-> `https://zhangsan.github.io/ncepu-ai-kit/`
-
-也可以直接点这里看：[完整接入指南](index.html) ｜ [新手使用说明](使用说明.md)
+📄 **[下载 PDF 版（10 页 A4）](https://wangaijun001.github.io/ncepu-ai-kit/ncepu-ai-guide.pdf)** ｜
+也可以点这里看：[完整接入指南](index.html) ｜ [新手使用说明](使用说明.md)
 
 ---
 
@@ -58,6 +53,7 @@ POST http://202.204.64.234:8080/api/chat/completions
 | 文件 | 说明 |
 |---|---|
 | [`index.html`](index.html) | ⭐ **主文档**（含截图，浏览器打开即可） |
+| [`ncepu-ai-guide.pdf`](ncepu-ai-guide.pdf) | 📄 **PDF 版**（10 页 A4，方便打印 / 转发） |
 | [`使用说明.md`](使用说明.md) | 新手入口：3 步上手 + 常见问题 |
 | [`harness连接指南.md`](harness连接指南.md) | 主文档的文字版 |
 | [`接入参数.md`](接入参数.md) | Qoder / WorkBuddy 详细配置 + 坑位说明 |
