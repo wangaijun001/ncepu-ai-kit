@@ -1,0 +1,14 @@
+# 防止 Python 缓存被提交
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器 / 系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ⚠️ 重要：如果你在自己的副本里填了真实 API 密钥，
+#    请把下面这行取消注释，避免误提交密钥：
+# api_key.txt
